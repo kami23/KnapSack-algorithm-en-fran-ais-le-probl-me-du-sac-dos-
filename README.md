@@ -1,1 +1,1 @@
-# KnapSack-algorithm (le probleme du sac à dos)
+# KnapSack algorithm (le probleme du sac à dos)
